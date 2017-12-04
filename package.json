@@ -1,0 +1,10 @@
+{
+  "name": "Talents",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.7.9",
+    "mysql": "^2.15.0",
+    "sequelize": "^4.26.0"
+  }
+}
